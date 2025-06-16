@@ -1,0 +1,2 @@
+# paramos em iteração
+
